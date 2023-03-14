@@ -25,8 +25,9 @@ Individual sprites and background for Frogger Arcade game re-creations
 ![end frog](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/endfrog.png)
 ![fly](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/fly.png)
 
-Sprites taken from this image: https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png
+Sprites taken from this image: 
 ![original arcade image](https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png)
+https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png
 
 Background edited from arcade image: https://excamera.com/sphinx/gameduino/tutorials/frogger1.html
 
