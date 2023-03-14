@@ -4,13 +4,23 @@ Individual sprites and background for Frogger Arcade game re-creations
 
 ![frog sprite](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/frog1.png)
 ![jumping frog sprite](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/frog2.png)
-
+![car 1](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/car1.png)
+![car 2](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/car2.png)
+![car 3](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/car3.png)
+![car 4](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/car4.png)
+![car 5](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/car5.png)
+![log 1](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/log1.png)
+![log 2](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/log2.png)
+![log 3](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/log3.png)
+![turtles full](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/turtles.png)
+![turtles shell](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/turtles2.png)
+![end frog](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/endfrog.png)
+![fly](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/fly.png)
 
 Sprites taken from this image: https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png
 ![original arcade image](https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png)
 
 Background edited from arcade image: https://excamera.com/sphinx/gameduino/tutorials/frogger1.html
-![original background image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAAEABAMAAABYMGfkAAAAAXNSR0IArs4c6QAAAC1QTFRFAAAAAABH3t73Id4AAN73//8A/wD3lwD3AAD3/wAAl/8A/0f33mhPl2hP/0cAlrZFVAAAAAlwSFlzAAAPYAAAD2ABenhFjQAAAAd0SU1FB9sGHQ8CJetwzVYAAAM7SURBVHja7ZqxbtswEIYPCBLPtCctAqwnqCBk9TMEKNQXKNDZG/MGRkZNtR4v0K5nyB1JkXTcAm6jo5f/t88nHQ195N3R8iAyV2rc53Zvmm3T7JeonJum8YPitjzG4+47S/wG0VVkmwH3prkAxsl4fPzOzbg/Ac0twGjrADlNzRXQpc2PuVRG4Nadr7PCzzVM/CYCmzz89ZSav6S0STVs9l8Dpk7cXwGzsdilPqVf6FJlkalGdmzjOLDJwVDJceX8aMYwthpwqOTihj/5ypUHDX4OEmMb/NhKQH8xuV7lPSNkhQ5q5FgLWIU0hvW5tPpUG5/qtYH+mmPlLz66uGTYD6wH5Eu5lVShZi6NQw4M1Vy1S3lVoSMHjx29Cccfr7gtiu9DAAEE8O7AXde1/OqCtXK+mEacunaSozlYHNGKU9vVcrhbrAvSipOL7pItc9GK066euiQ+2fGk2LTiXMNunuq5FZtd3mMuVOLcpYf397muxXgyLed8EtOKcw0PaZNMXeoupTgD2/flXNId945SnPgjzYBbeJmZVpz34SHNYNdOqdY68asapv2jE6d2/lTssH+04sQ/OFlRD3PcP0px+WnLisrDYf9oxd3GT0VN+0crfr3xl/2qFL9omnqqY39pxS+axnDW4/1MKS5/MfKitst9SysuNfxU7EU6ceKbVZoBZzzeu5TiDMz+w9W1We5dWnH88wYQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEMB7Ajdk6bg5FvNkWUfrVcKTPdlXK+9Cnl7P9u3E71K+/Aolt79PPsclPAn3fLa2lCdJr5tBIS8rfHMrLuTJhoqW8vQqxeSeLeVJ1rmxJ1vK8wplT8p6y3humnPIcBlPoaC2lOeftuOG5K5RyEMQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQlAnPl+L5UjxfiudL8Xwpni/F86V30MPTj4fcVCBPvzJg33/PTWdVP7OTvn+5MA113beywOcM+PDcd7npA/mdm04Ns9YoAvz3mv+/uC96sUfuEHesDiRh9PTYP/bUl1hhBPb3AN647VYBvrwUXqFrmlLAsl16qQ8wY35X1NI4mAAAAABJRU5ErkJggg==)
 
 You can find Frogger sounds: http://www.classicgaming.cc/classics/frogger/sounds
 
