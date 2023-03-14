@@ -1,6 +1,10 @@
 # FroggerGraphicsPkg
-## Individual sprites and background for Frogger Arcade game re-creations.
-### Download the individual sprites and background as needed or unzip the file which contains all available sprites.
+
+
+Individual sprites and background for Frogger Arcade game re-creations.
+
+
+Download the individual sprites and background as needed or unzip the file which contains all available sprites.
 
 
 ![frog sprite](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/frog1.png)
