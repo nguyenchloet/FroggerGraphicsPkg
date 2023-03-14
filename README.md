@@ -32,13 +32,6 @@ Download the individual sprites and background as needed or unzip the file which
 ![1 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/1shell.png)
 
 ![6 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/6lives.png)
-![5 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/5lives.png)
-![4 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/4lives.png)
-![3 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/3lives.png)
-![2 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/2lives.png)
-![1 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/1life.png)
-
-
 
 ![end frog](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/endfrog.png)
 ![fly](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/fly.png)
