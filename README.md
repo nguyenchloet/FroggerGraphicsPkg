@@ -1,5 +1,6 @@
 # FroggerGraphicsPkg
 Individual sprites and background for Frogger Arcade game re-creations
+<img url="https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/frog1.png">
 
 Sprites taken from this image: https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png
 
