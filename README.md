@@ -26,6 +26,8 @@ Individual sprites and background for Frogger Arcade game re-creations
 ![fly](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/fly.png)
 
 Sprites taken from this image: 
+
+
 ![original arcade image](https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png)
 https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png
 
