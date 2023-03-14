@@ -24,11 +24,19 @@ Download the individual sprites and background as needed or unzip the file which
 
 
 ![3 turtles](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/3turtles.png)
+
+
 ![2 turtles](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/2turtles.png)
+
+
 ![1 turtle](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/1turtle.png)
 
-![3 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/3shells.png) /t
-![2 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/2shells.png) \t
+![3 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/3shells.png) 
+
+
+![2 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/2shells.png) 
+
+
 ![1 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/1shell.png)
 
 ![6 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/6lives.png)
