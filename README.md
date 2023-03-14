@@ -26,6 +26,7 @@ Download the individual sprites and background as needed or unzip the file which
 ![end frog](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/endfrog.png)
 ![fly](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/fly.png)
 
+
 Sprites taken from this image: 
 
 
@@ -39,9 +40,5 @@ Background edited from arcade image: https://excamera.com/sphinx/gameduino/tutor
 You can find Frogger sounds: http://www.classicgaming.cc/classics/frogger/sounds
 
 <em> Examples (Starter Projects) </em> 
-
-
-https://scratch.mit.edu/projects/818738741/
-
-
-https://trinket.io/library/trinkets/173b29117c
+*https://scratch.mit.edu/projects/818738741/
+*https://trinket.io/library/trinkets/173b29117c
