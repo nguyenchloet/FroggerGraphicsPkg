@@ -23,8 +23,21 @@ Download the individual sprites and background as needed or unzip the file which
 ![log 3](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/log3.png)
 
 
-![turtles full](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/turtles.png)
-![turtles shell](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/turtles2.png)
+![3 turtles](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/3turtles.png)
+![2 turtles](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/2turtles.png)
+![1 turtle](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/1turtle.png)
+
+![3 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/3shells.png)
+![2 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/2shells.png)
+![1 shells](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/1shell.png)
+
+![6 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/6lives.png)
+![5 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/5lives.png)
+![4 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/4lives.png)
+![3 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/3lives.png)
+![2 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/2lives.png)
+![1 lives](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/1life.png)
+
 
 
 ![end frog](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/endfrog.png)
