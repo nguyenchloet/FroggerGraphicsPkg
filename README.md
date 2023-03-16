@@ -4,8 +4,7 @@
 Individual sprites and background for Frogger Arcade game re-creations.
 
 
-Download the individual sprites and background as needed or unzip the file which contains all available sprites.
-
+Zip file of sprites available.
 
 ![frog sprite](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/sprites/frog1.png)
 ![jumping frog sprite](https://github.com/nguyenchloet/FroggerGraphicsPkg/blob/main/sprites/frog2.png)
